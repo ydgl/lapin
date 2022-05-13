@@ -4,7 +4,7 @@ explication
 
 ``` mermaid
 stateDiagram-v2
-  [*] --> Ouvert : creation
+  [*] --> Ouvert : creation-coco
   state Ouvert
   
 
